@@ -12,4 +12,4 @@ A React app helping you manage your todos. You can create todos, delete them, ch
 
 ## Screenshots
 
-![alt text](public/screenshot-todo.png)
+![alt text](public/screenshot-todo-new.png)
